@@ -1,0 +1,8 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"G***","LOGO","pcb way logo",-26.875000,6.200000,180.000000,bottom
+"C1","100nF","C_0805_2012Metric_Pad1.15x1.40mm_HandSolder",2.900000,12.749999,-90.000000,top
+"C2","100nF","C_0805_2012Metric_Pad1.15x1.40mm_HandSolder",24.800000,12.700001,-90.000000,top
+"J1","Conn_01x15","PinHeader_1x15_P2.54mm_Vertical",1.489000,1.521000,90.000000,top
+"J2","Conn_01x15","PinHeader_1x15_P2.54mm_Vertical",1.489000,24.381000,90.000000,top
+"U1","4040","SOIC-16_3.9x9.9mm_P1.27mm",9.175000,12.725000,90.000000,top
+"U2","4040","SOIC-16_3.9x9.9mm_P1.27mm",30.975000,12.700000,90.000000,top
